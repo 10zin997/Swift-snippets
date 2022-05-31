@@ -1,1 +1,1 @@
-SAY HELLO 
+To learn along, supplement the coding with reading. I primarily used (https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
